@@ -23,4 +23,4 @@ Visual Studio Code
 
 ## API resource
 
-Country resource: [restcountries](https://restcountries.eu/)
+Country resource: [restcountries](https://restcountries.com/)
